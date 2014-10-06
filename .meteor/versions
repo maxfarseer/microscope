@@ -10,6 +10,7 @@ boilerplate-generator@1.0.0
 bootstrap@1.0.1
 callback-hook@1.0.0
 check@1.0.1
+coffeescript@1.0.3
 ctl-helper@1.0.3
 ctl@1.0.1
 ddp@1.0.9
@@ -29,6 +30,7 @@ iron:layout@0.4.1
 iron:router@0.9.3
 jquery@1.0.0
 json@1.0.0
+less@1.0.9
 livedata@1.0.10
 localstorage@1.0.0
 logging@1.0.3
@@ -39,6 +41,7 @@ minimongo@1.0.3
 mobile-status-bar@1.0.0
 mongo@1.0.6
 mrt:accounts-ui-bootstrap-dropdown@0.8.3
+mrt:iron-router-progress@0.9.2
 npm-bcrypt@0.7.7
 observe-sequence@1.0.2
 ordered-dict@1.0.0

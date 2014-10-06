@@ -11,3 +11,4 @@ installs & removals
 - meteor add mrt:accounts-ui-bootstrap-dropdown
 - meteor add accounts-password
 - meteor remove insecure
+- meteor add mrt:iron-router-progress
